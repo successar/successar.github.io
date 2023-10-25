@@ -12,4 +12,4 @@ My current research interests include interpretability and analysis of deep lear
 * Email: successar@gmail.com
 * Github: [github.com/successar](github.com/successar)
 * [Google Scholar](https://scholar.google.com/citations?user=ng6th5cAAAAJ&hl=en)
-
+* [CV]({{ site.url }}/CV.pdf)
