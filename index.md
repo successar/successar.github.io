@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am an Applied Scientist at AWS AI Labs. 
+I am an Applied Scientist working on Generative AI models at AWS. 
 I received my PhD in 2022 from Northeastern University, advised by [Byron Wallace](https://byronwallace.com/).
 Before that, I completed BTech in Computer Engineering from Delhi Technological University. 
 My current research interests include interpretability and analysis of deep learning models.
